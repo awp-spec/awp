@@ -1,4 +1,4 @@
-<img src="https://awp-spec.github.io/awp/logo.png" alt="The AWP logo" height=600px>
+[<img src="https://awp-spec.github.io/awp/logo.png" alt="The AWP logo" height=200px>](http://awp-spec.github.io)
 # Agentic Web Protocol (AWP)
 
 AWP is an open protocol that lets AI agents discover, read, and safely
