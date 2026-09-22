@@ -12,3 +12,6 @@ a verified identity, without scraping HTML meant for humans.
 - [For Servers](for-servers.md) — how to publish an `/awp` endpoint, including page types and service authentication
 - [For Registries](for-registries.md) — how to run or apply to a central-site registry
 - [JSON Examples](json-examples.md) — full example payloads for every page type
+
+# Status of this spec
+This is a draft (v0.1). Terminology, field names, and behavior may still change before a 1.0 release. Feedback and implementation experience are welcome — see the repository's issue tracker.
