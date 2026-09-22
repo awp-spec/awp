@@ -1,0 +1,5 @@
+- [Introduction](introduction.md) — what AWP is, the problem it solves, and how the pieces fit together
+- [For Clients](for-clients.md) — how agents discover, parse, and safely consume AWP pages
+- [For Servers](for-servers.md) — how to publish an `/awp` endpoint, including page types and service authentication
+- [For Registries](for-registries.md) — how to run or apply to a central-site registry
+- [JSON Examples](json-examples.md) — full example payloads for every page type
