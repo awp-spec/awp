@@ -3,3 +3,4 @@
 - [For Servers](for-servers.md) 
 - [For Registries](for-registries.md)
 - [JSON Examples](json-examples.md)
+- [Categories list](categories.md)
